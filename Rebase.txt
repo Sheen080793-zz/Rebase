@@ -1,5 +1,5 @@
 REBASE CHECKING
 
-modification #3
+refactoring #3
 
 REBASE CLOSING
